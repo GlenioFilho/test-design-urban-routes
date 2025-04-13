@@ -49,8 +49,6 @@ This sprint included learning about the roles of testers, collaborating with the
 ## 🚀 **Tools Used**
 - **Google Sheets**: Used for documenting test cases and tracking the progress of test design.
 - **Mind Mapping Tools**: Used to create visual representations of the requirements to design efficient checklists and test cases.
-- **[Other tools used]**: [Add any other tools or frameworks used during the sprint].
-
 ---
 
 ## 🧪 **Created by Glenio Filho as part of QA training.**
