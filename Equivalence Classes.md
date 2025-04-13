@@ -2,7 +2,7 @@
 
 The following test cases were designed to validate the correct functioning of the data input system. The goal is to ensure the system properly validates fields such as name, surname, and date of birth according to the defined validation rules. Each test case follows a set of preconditions, steps to be executed, and the expected results to ensure data integrity.
 
-## Test Cases - Name
+# Equivalence Classes
 
 | **Test Case ID** | **Test Case Name**         | **Pre-condition**                             | **Step Number** | **Step Description**                                                   | **Expected Result**                                                    |
 |------------------|----------------------------|-----------------------------------------------|-----------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
